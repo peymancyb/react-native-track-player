@@ -13,6 +13,6 @@
     "target": "esnext",
     "skipLibCheck": true
   },
-  "include": ["src"],
-  "exclude": ["node_modules", "**/__tests__/*"]
+//   "include": ["src"],
+  "exclude": ["node_modules", "**/__tests__/*", "src"]
 }
